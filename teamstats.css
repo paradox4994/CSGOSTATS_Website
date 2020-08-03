@@ -1,0 +1,265 @@
+.container{
+  background-color: black;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  margin-left: 80px;
+  margin-right: 80px;
+  margin-top: 100px;
+  border-radius: 45px;
+}
+
+#tx{
+  position: absolute;
+  left: 40%;
+  top: 10%;
+  color: white;
+  font-weight: bold;
+  font-size: 100px;
+}
+
+#im{
+  margin-left: 25px;
+  margin-top: 25px;
+  height: 250px;
+  width: 250px;
+}
+
+.container2{
+  background-color: black;
+  position: absolute;
+  top: 130%;
+  width: 85%;
+  height: 85%;
+  margin-left: 80px;
+  margin-right: 80px;
+  border-radius: 45px;
+}
+
+.container2 img{
+  padding-top: 10px;
+  padding-bottom: 20px;
+  width: 350px;
+}
+
+.d2{
+  color: white;
+  position: absolute;
+  top: 69px;
+  left: 190px;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.mir{
+  color: white;
+  position: absolute;
+  top: 133px;
+  left: 190px;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.inf{
+  color: white;
+  position: absolute;
+  top: 199px;
+  left: 190px;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.cac{
+  color: white;
+  position: absolute;
+  top: 266px;
+  left: 190px;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.tra{
+  color: white;
+  position: absolute;
+  top: 331px;
+  left: 190px;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.ove{
+  color: white;
+  position: absolute;
+  top: 398px;
+  left: 190px;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.ver{
+  color: white;
+  position: absolute;
+  top: 463px;
+  left: 190px;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.imp1{
+  color: white;
+  position: absolute;
+  top: 69px;
+  left: 450px;
+  font-weight: bold;
+  font-size: 20px;
+  background-color: orange;
+  padding: 5px;
+  border-radius: 15px;
+}
+.imp2{
+  color: white;
+  position: absolute;
+  top: 133px;
+  left: 450px;
+  font-weight: bold;
+  font-size: 20px;
+  background-color: orange;
+  padding: 5px;
+  border-radius: 15px;
+}
+.imp3{
+  color: white;
+  position: absolute;
+  top: 199px;
+  left: 450px;
+  font-weight: bold;
+  font-size: 20px;
+  background-color: orange;
+  padding: 5px;
+  border-radius: 15px;
+}
+.imp4{
+  color: white;
+  position: absolute;
+  top: 266px;
+  left: 450px;
+  font-weight: bold;
+  font-size: 20px;
+  background-color: orange;
+  padding: 5px;
+  border-radius: 15px;
+}
+.imp5{
+  color: white;
+  position: absolute;
+  top: 331px;
+  left: 450px;
+  font-weight: bold;
+  font-size: 20px;
+  background-color: orange;
+  padding: 5px;
+  border-radius: 15px;
+}
+.imp6{
+  color: white;
+  position: absolute;
+  top: 398px;
+  left: 450px;
+  font-weight: bold;
+  font-size: 20px;
+  background-color: orange;
+  padding: 5px;
+  border-radius: 15px;
+}
+.imp7{
+  color: white;
+  position: absolute;
+  top: 463px;
+  left: 450px;
+  font-weight: bold;
+  font-size: 20px;
+  background-color: orange;
+  padding: 5px;
+  border-radius: 15px;
+}
+
+#chartContainer{
+  position: absolute;
+  top: 69px;
+  left: 550px;
+  height: 450px;
+  width: 550px;
+}
+
+
+#pimg{
+ position: relative;
+ width: 200px;
+ height: 200px;
+ left: 50px;
+ top: 70px
+}
+
+#pn1{
+  position: absolute;
+  font-size: 30px;
+  color: white;
+  font-weight: bold;
+  top: 550px;
+  left: 10%;
+}
+
+#pn2{
+  position: absolute;
+  font-size: 30px;
+  color: white;
+  font-weight: bold;
+  top: 550px;
+  left: 28%;
+}
+
+#pn3{
+  position: absolute;
+  font-size: 30px;
+  color: white;
+  font-weight: bold;
+  top: 550px;
+  left: 47%;
+}
+
+#pn4{
+  position: absolute;
+  font-size: 30px;
+  color: white;
+  font-weight: bold;
+  top: 550px;
+  left: 64%;
+}
+
+#pn5{
+  position: absolute;
+  font-size: 30px;
+  color: white;
+  font-weight: bold;
+  top: 550px;
+  left: 82%;
+}
+
+.canvasjs-chart-credit{
+  display:none;
+}
+
+.rankdisp{
+  font-size: 40px;
+  font-weight: bold;
+  color: white;
+  position: absolute;
+  top: 10px;
+  left: 91%;
+  background-color: orange;
+  border-radius: 25px;
+  padding-left: 19px;
+  padding-right: 19px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}

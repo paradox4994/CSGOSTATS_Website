@@ -1,0 +1,31 @@
+<button class="accordion"><img src="av/navi.png"></button>
+<div class="panel">
+  <ul class="llist">
+    <li><img src="pro/markeloff.jpg" class="legimg"></li>
+    <li><img src="pro/zeus.png" class="legimg"></li>
+    <li><img src="pro/starix.jpg" class="legimg"></li>
+    <li><img src="pro/ceh9.jpg" class="legimg"></li>
+    <li><img src="pro/edward.png" class="legimg"></li>
+  </ul>
+</div>
+<button class="accordion"><img src="av/nip.png"></button>
+<div class="panel">
+  <ul class="llist">
+    <li><img src="pro/gtr.png" class="legimg"></li>
+    <li><img src="pro/forest.png" class="legimg"></li>
+    <li><img src="pro/xizt.png" class="legimg"></li>
+    <li><img src="pro/friberg.png" class="legimg"></li>
+    <li><img src="pro/fifflaren.jpg" class="legimg"></li>
+  </ul>
+</div>
+
+<button class="accordion"><img src="av/fnatic.png"></button>
+<div class="panel">
+  <ul class="llist">
+    <li><img src="av/fnatic.png" class="legimg"></li>
+    <li><img src="av/fnatic.png" class="legimg"></li>
+    <li><img src="av/fnatic.png" class="legimg"></li>
+    <li><img src="av/fnatic.png" class="legimg"></li>
+    <li><img src="av/fnatic.png" class="legimg"></li>
+  </ul>
+</div>

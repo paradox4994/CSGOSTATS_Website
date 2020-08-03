@@ -1,0 +1,66 @@
+.parallax {
+  background-image: url("img/bg.jpg");
+  min-height: 1400px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.nav-pills{
+  margin-top: 25px;
+  margin-left: 20px;
+  font-size: 20px;
+}
+
+.nav-pills li a:hover{
+  background-color: orange;
+}
+
+.nav-pills li a{
+  color: white;
+}
+
+.nav-pills .nav-link.active {
+  background-color: orange;
+}
+
+#navact.nav-link{
+  background-color: blue;
+}
+
+.container1 .intro h1{
+  align-content: center;
+  color:  orange;
+  text-shadow: 1px 1px 5px black;
+  font-weight: bold;
+  font-family: courier;
+  font-size: 400%
+
+}
+
+.intro h4{
+ color: yellow;
+ background-color: black;
+ border-radius: 15px;
+ margin-left: 120px;
+ margin-right: 120px;
+ font-family: courier;
+ font-weight: bold;
+ text-shadow: 1px 1px 5px black;
+ padding: 10px;
+
+}
+
+
+.carousel-inner img {
+  width: 100%;
+  height: 100%;
+}
+
+.navicons img{
+  height: 50px;
+  width: 50px;
+  margin-top: 15px;
+  margin-left: 15px;
+}
